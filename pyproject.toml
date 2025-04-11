@@ -3,7 +3,7 @@ name = "insights-lib"
 version = "0.1.0"
 package-mode = false
 description = "Lib data analysis"
-authors = ["Dalibor Veljkovic <dalibor.veljkovic49@gmail.com>"]
+authors = ["Name Surname <name.surname@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.12"
